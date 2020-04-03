@@ -8,6 +8,7 @@ import {
   metadataDisclose,
   verify
 } from "./src/example";
+// javi
 import { config } from "./src/config";
 
 const divConsole = document.getElementById("console");
